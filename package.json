@@ -1,0 +1,19 @@
+{
+  "name": "biosfera-backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elTerraqueo/biosfera-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elTerraqueo/biosfera-backend/issues"
+  },
+  "homepage": "https://github.com/elTerraqueo/biosfera-backend#readme"
+}
