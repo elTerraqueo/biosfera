@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/elTerraqueo/biosfera-backend/issues"
   },
-  "homepage": "https://github.com/elTerraqueo/biosfera-backend#readme"
+  "homepage": "https://github.com/elTerraqueo/biosfera-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
